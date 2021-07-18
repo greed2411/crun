@@ -1,0 +1,9 @@
+echo started
+seq 1 200
+python sleeper.py 1 1 5
+echo haha
+python sleeper.py 2 131 133
+seq 15 20
+ls -lh
+date
+echo done
